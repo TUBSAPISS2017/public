@@ -2,8 +2,9 @@
 In diesem Ordner findet ihr Anleitungen, die wir euch im Laufe der Veranstaltung bereitstellen werden.
 
 ## Linksammlung
-
-
+* Shell Befehle:
+	* http://www.shellbefehle.de/befehle/
+	
 * Scrum Erklärvideo:
 	* https://youtu.be/BqrCXZUh84U
 * Spotify Engineering Culture:
