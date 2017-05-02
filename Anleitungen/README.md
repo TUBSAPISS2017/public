@@ -2,7 +2,15 @@
 In diesem Ordner findet ihr Anleitungen, die wir euch im Laufe der Veranstaltung bereitstellen werden.
 
 ## Linksammlung
-
+* Arduino IDE:
+	* Offline: http://www.arduino.org/downloads
+	* Online: https://create.arduino.cc/getting-started
+* Funduino Anleitung:
+	* http://funduino.de/anleitungen
+	
+* Git Installation:
+	* https://git-scm.com/
+	* Git-Online-Tutorial: https://try.github.io/levels/1/challenges/1
 
 * Scrum Erklärvideo:
 	* https://youtu.be/BqrCXZUh84U
