@@ -1,0 +1,1 @@
+int i = 0;void setup() //Wir starten mit dem Setup{  pinMode(12, OUTPUT); // Pin 12 ist ein Ausgang.}void loop() // Das Hauptprogramm beginnt.{  i++;  analogWrite(12, i); // 0 bis 5 V ueber PWM  if(i == 255)  {    i=0;  }  delay(10); //Hauptprogramm wartet 10ms}
