@@ -2,9 +2,16 @@
 In diesem Ordner findet ihr Anleitungen, die wir euch im Laufe der Veranstaltung bereitstellen werden.
 
 ## Linksammlung
+	
+
+
 * Arduino IDE:
 	* Offline: http://www.arduino.org/downloads
 	* Online: https://create.arduino.cc/getting-started
+	* <span style="color:red">PlatformIO: http://www.visualmicro.com/</span>
+	* <span style="color:red">Arduino Erweiterung für Eclipse: http://www.baeyens.it/eclipse/</span>	
+	* <span style="color:red">Arduino Erweiterung für Visual Studio: http://www.visualmicro.com/</span>	
+	
 * Funduino Anleitung:
 	* http://funduino.de/anleitungen
 	
@@ -33,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 	* GanttProject: http://www.ganttproject.biz/
 	* Open Workbench: http://sourceforge.net/projects/openworkbench/
 * Softwaremodellierung
-	* <span style="color:red">draw.io: https://www.draw.io/</span>	
+	* draw.io: https://www.draw.io/
 	* MS Visio: https://www.tu-braunschweig.de/it/service-interaktiv/software/doku/msdn-aa/elms/login
 	* ArgoUML: http://argouml.tigris.org/
 	* StarUML: http://staruml.io
