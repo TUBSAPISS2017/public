@@ -3,14 +3,16 @@ In diesem Ordner findet ihr Anleitungen, die wir euch im Laufe der Veranstaltung
 
 ## Linksammlung
 	
-
+* Doxygen 
+	* Offizielle Website: http://www.stack.nl/~dimitri/doxygen/
+	* Beispiele: https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html#cppblock
 
 * Arduino IDE:
 	* Offline: http://www.arduino.org/downloads
 	* Online: https://create.arduino.cc/getting-started
-	* <span style="color:red">PlatformIO: http://www.visualmicro.com/</span>
-	* <span style="color:red">Arduino Erweiterung für Eclipse: http://www.baeyens.it/eclipse/</span>	
-	* <span style="color:red">Arduino Erweiterung für Visual Studio: http://www.visualmicro.com/</span>	
+	* PlatformIO: http://www.visualmicro.com/
+	* Arduino Erweiterung für Eclipse: http://www.baeyens.it/eclipse/	
+	* Arduino Erweiterung für Visual Studio: http://www.visualmicro.com/
 	
 * Funduino Anleitung:
 	* http://funduino.de/anleitungen
