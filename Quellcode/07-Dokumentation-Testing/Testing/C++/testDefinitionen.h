@@ -3,15 +3,23 @@
 
 #ifdef TEST
 #include "test.h"
+#include "convertXY.h"
 
-
-void testAnmeldung(){ // Name frei waehlbar muss in runTests() aufgerufen werden
+void testLatLon(){ // Name frei waehlbar muss in runTests() aufgerufen werden
 
 	bool testResult = false;
 
-	// Hier soll der eigene Test implementiert werden.
-	// Falls der Test erfolgreich ist, kann die Variable "testResult" auf true gesetzt werden.
-
+	double lat = 50;
+	double lon = 10;
+	double x = 43782932;
+	double y = 4372984;
+	
+	double ergX, ergY;
+	
+	convertXY(lat, lon, &ergX, &ergY);
+	
+	testResult = (ergX == x) && (ergY == y);
+		
 	APITest::printTestResult(testResult, "Anmeldung", "Paul Frost");
 }
 #endif // TEST
@@ -22,7 +30,7 @@ void runTests(){
 	APITest::printTestStartHeader(); // Nicht modifizieren
 
 	// Hier sollen die eigenen Tests hinzugefuegt werden
-	testAnmeldung();
+	testLatLon();
 	// ...
 
 	APITest::printTestEndFooter(); // Nicht modifizieren
