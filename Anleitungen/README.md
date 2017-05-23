@@ -3,6 +3,11 @@ In diesem Ordner findet ihr Anleitungen, die wir euch im Laufe der Veranstaltung
 
 ## Linksammlung
 	
+* Qt
+	* Windows: http://download.qt.io/official_releases/qt/5.8/5.8.0/qt-opensource-windows-x86-mingw530-5.8.0.exe
+	* macOS: http://download.qt.io/official_releases/qt/5.8/5.8.0/qt-opensource-mac-x64-clang-5.8.0.dmg
+	* Linux: http://download.qt.io/official_releases/qt/5.8/5.8.0/qt-opensource-linux-x64-5.8.0.run
+	
 * Doxygen 
 	* Offizielle Website: http://www.stack.nl/~dimitri/doxygen/
 	* Beispiele: https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html#cppblock
