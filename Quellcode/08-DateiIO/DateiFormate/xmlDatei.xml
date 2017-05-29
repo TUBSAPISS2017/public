@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" >
+ <bounds minlat="52.2780700" minlon="10.5269700"/>
+ <node id="48999923" visible="true" >
+  <tag k="railway" v="switch"/>
+  <tag k="railway:local_operated" v="yes"/>
+  <tag k="railway:switch" v="default"/>
+  <tag k="railway:turnout_side" v="right"/>
+ </node>
+</osm>
