@@ -38,21 +38,6 @@ void LEDWidget::changeColor(ActiveColor colorToChange, int colorValue)
 	emit colorChanged(m_colorString);
 }
 
-void LEDWidget::on_redSlider_sliderMoved(int position)
-{
-//	changeColor(ActiveRed, position);
-}
-
-void LEDWidget::on_greenSlider_sliderMoved(int position)
-{
-//	changeColor(ActiveGreen, position);
-}
-
-void LEDWidget::on_blueSlider_sliderMoved(int position)
-{
-//	changeColor(ActiveBlue, position);
-}
-
 void LEDWidget::on_redSlider_valueChanged(int value)
 {
 	changeColor(ActiveRed, value);
