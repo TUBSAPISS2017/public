@@ -4,14 +4,10 @@
 #ifdef TEST
 
 #include "test.h"
-#include "registration.h"
-
 
 
 
 void testAnmeldung(){ // Name frei waehlbar
-  // Die folgende Zeile sorgt dafuer, dass die Testfunktion 
-  // identifizierbar ist 
   bool testResult = false;
 
   // Eigene Testimplementierung...
